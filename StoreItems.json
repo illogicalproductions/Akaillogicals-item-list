@@ -1,6 +1,12 @@
 {
 	"items" : [
 	{
+		"abr": "aberrantfleshbeast",
+		"price": 17,
+		"category": "Animal",
+		"defname": "GR_AberrantFleshbeast"
+	},
+	{
 		"abr": "aberrantfleshbeastmeat",
 		"price": 3,
 		"category": "Raw meat",
